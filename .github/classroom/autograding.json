@@ -5,8 +5,8 @@
       "setup": "",
       "run": "python3 hello.py",
       "input": "Flo",
-      "output": "Hello World!\r\nHello\r\nHello Flo!",
-      "comparison": "included",
+      "output": "Hello World!\r\nHello Jo!\r\nHello Flo!",
+      "comparison": "exact",
       "timeout": 10,
       "points": null
     }
